@@ -11,10 +11,11 @@ discord: **Beritateyvat#3525**
 
 ---
 
+![](https://github-readme-stats.vercel.app/api?username=Yasuharaa&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasuharaa&show_icons=true&theme=dark&border_radius=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasuharaa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasuharaa&theme=dark&border_radius=15)
+![](https://komarev.com/ghpvc/?username=Yasuharaa&color=d93a7c)
 
 <hr>
 
