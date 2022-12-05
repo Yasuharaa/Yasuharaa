@@ -12,9 +12,9 @@ discord: **Beritateyvat#3525**
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Yasuharaa&show_icons=true&theme=radical)
+![](http://github-readme-yasuharaa.vercel.app/api?username=Yasuharaa&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasuharaa&show_icons=true&theme=radical)
+![](https://github-readme-yasuharaa.vercel.app/api/top-langs/?username=Yasuharaa&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Yasuharaa&color=d93a7c)
 
