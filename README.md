@@ -7,7 +7,7 @@ discord: **Beritateyvat#3525**
 
 - i love anime, i will make my anime soon!
 - currently learning Java, hlsl, phyton
-- interested in 3D anime models, 3D animation, animestyle shader, and grphic programming
+- interested in 3D anime models, 3D animation, animestyle shader, and graphic programming
 - i want to bring my waifu into real life (using AR/VR)
 
 ---
