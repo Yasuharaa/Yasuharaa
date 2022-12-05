@@ -1,16 +1,26 @@
-### Hi there 👋
+# hey!
 
-<!--
-**Yasuharaa/Yasuharaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+discord: **Beritateyvat#3525**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- this Github for School project and my storage
+- currently learning JAVA, hlsl, phyton
+- interested in graphics programming, 3D Anime Models, Anime shader, etc
+
+---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasuharaa&show_icons=true&theme=dark&border_radius=15)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasuharaa&theme=dark&border_radius=15)
+
+<hr>
+
+[<img align="left" alt="YouTube" height="50px" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
+[<img align="left" alt="Instagram" height="50px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
+[<img align="left" alt="Instagram" height="50px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" />][instagram]
+
+[youtube]: https://www.youtube.com/c/Beritateyvat
+[instagram]: https://www.instagram.com/rhif.3525
