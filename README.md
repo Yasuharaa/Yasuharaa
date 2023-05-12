@@ -24,6 +24,6 @@ discord: **Beritateyvat#3525**
 [<img align="left" alt="Twitter" height="50px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 [<img align="left" alt="Instagram" height="50px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/Beritateyvat
-[twitter]: https://www.twitter.com/beritateyvat
-[instagram]: https://www.instagram.com/rhif.3525
+[youtube]: https://www.youtube.com/
+[twitter]: https://www.twitter.com/
+[instagram]: https://www.instagram.com/
