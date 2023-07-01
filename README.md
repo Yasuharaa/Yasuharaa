@@ -1,6 +1,6 @@
 # hey!
 
-discord: **Beritateyvat#3525**
+discord: **InActive**
 
 
 ---
