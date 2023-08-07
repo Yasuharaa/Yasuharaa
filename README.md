@@ -1,6 +1,6 @@
 # hey!
 
-discord: **InActive**
+
 
 
 ---
