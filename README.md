@@ -5,10 +5,7 @@
 
 ---
 
-- i love anime, i will make my anime soon!
-- currently learning Java, hlsl, phyton
-- interested in 3D anime models, 3D animation, animestyle shader, and graphic programming
-- i want to bring my waifu into real life (using AR/VR)
+- currently learning machine learning (phyton)
 
 ---
 
@@ -23,7 +20,3 @@
 [<img align="left" alt="YouTube" height="50px" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
 [<img align="left" alt="Twitter" height="50px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 [<img align="left" alt="Instagram" height="50px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" />][instagram]
-
-[youtube]: https://www.youtube.com/
-[twitter]: https://www.twitter.com/
-[instagram]: https://www.instagram.com/
