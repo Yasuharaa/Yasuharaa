@@ -1,11 +1,13 @@
-# hey!
+# HEY!
 
 
 
 
 ---
 
-- currently learning machine learning (phyton)
+C#
+Hlsl
+Py
 
 ---
 
